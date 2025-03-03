@@ -21,6 +21,8 @@ namespace WpfAppVERIFICADIGIT
             InitializeComponent();
         }
 
+        //Commento aggiunto da gitHub
+        
         private List<Partita> partite = new List<Partita>();
         private List<Libro> libri = new List<Libro>();
         private void Button_Click(object sender, RoutedEventArgs e)
